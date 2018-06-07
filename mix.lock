@@ -1,0 +1,4 @@
+%{
+  "elixir_make": {:hex, :elixir_make, "0.4.1", "6628b86053190a80b9072382bb9756a6c78624f208ec0ff22cb94c8977d80060", [:mix], [], "hexpm"},
+  "gproc": {:git, "https://github.com/uwiger/gproc", "ce7397809aca0d6eb3aac6db65953752e47fb511", []},
+}
